@@ -11,10 +11,14 @@
             "id": "47d5becc1b790912",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01-linux-hardening-lab/README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01-linux-hardening-lab/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01-linux-hardening-lab/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01-linux-hardening-lab/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,5 +189,10 @@
     }
   },
   "active": "47d5becc1b790912",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Pasted image 20260911175358.png",
+    "Pasted image 20260911174205.png",
+    "Pasted image 20260911174052.png",
+    "README.md"
+  ]
 }
