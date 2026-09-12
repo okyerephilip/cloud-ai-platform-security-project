@@ -64,8 +64,15 @@ sudo ufw status
 systemctl is-active fail2ban auditd 2>/dev/null
 ```
 
+<<<<<<< HEAD
 Baseline image
 [[baseline.png]]
+=======
+Baseline taken
+
+<img width="529" height="201" alt="image" src="https://github.com/user-attachments/assets/f29cc078-67c1-47e4-83a6-8bbb18555c66" />
+
+>>>>>>> a584a583c7caddf9d4e1da8808c17a67b984430a
 ### Step 2, Write the hardening script
 
 ```bash
@@ -80,7 +87,13 @@ ufw default deny incoming; ufw default allow outgoing; ufw allow 22/tcp; ufw --f
 Keep a second SSH session open while testing key-only login - locking yourself out is the classic mistake.
 
 Script created
+<<<<<<< HEAD
 [[scriptcreated.png]]
+=======
+
+<img width="520" height="159" alt="image" src="https://github.com/user-attachments/assets/113ac8b9-4302-4e2b-9a6e-1eb3f611ca64" />
+
+>>>>>>> a584a583c7caddf9d4e1da8808c17a67b984430a
 ### Step 3, Add brute-force, audit and auto-patch controls
 
 ```bash
